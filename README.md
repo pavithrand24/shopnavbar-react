@@ -1,6 +1,6 @@
 # shopnavbar-react
 
-# Announcement Bar and Sticky Navigation Bar
+# Navigation Bar
 
 **Blog Post:** [Creating a Sticky NavBar with an Announcement Bar in ReactJS]
 
